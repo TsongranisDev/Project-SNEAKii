@@ -22,4 +22,5 @@ Project SNEAKii will be a great way to display our educational dedication and fi
 
 
 Nicholas Tsongranis 
+
 Co-Developer and Co-Owner of Project SNEAKii
